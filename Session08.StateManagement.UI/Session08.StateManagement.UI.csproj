@@ -15,7 +15,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Session08.StateManagement.Dal\Session08.StateManagement.Dal.csproj" />
-    <ProjectReference Include="..\Session08.StateManager\Session08.StateManager.Entities.csproj" />
+    <ProjectReference Include="..\Session08.StateManager\Session08.StateManagement.Entities.csproj" />
   </ItemGroup>
 
 </Project>

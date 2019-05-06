@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.28803.352
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Session08.StateManager.Entities", "Session08.StateManager\Session08.StateManager.Entities.csproj", "{42152BA2-FE9C-40D9-99E2-BDB8A6A5F854}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Session08.StateManagement.Entities", "Session08.StateManager\Session08.StateManagement.Entities.csproj", "{42152BA2-FE9C-40D9-99E2-BDB8A6A5F854}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Session08.StateManagement.Dal", "Session08.StateManagement.Dal\Session08.StateManagement.Dal.csproj", "{E553AF76-0AA8-4014-AFF0-93C5E4E4C476}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Session08.StateManagement.Dal", "Session08.StateManagement.Dal\Session08.StateManagement.Dal.csproj", "{E553AF76-0AA8-4014-AFF0-93C5E4E4C476}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Session08.StateManagement.UI", "Session08.StateManagement.UI\Session08.StateManagement.UI.csproj", "{D8FEF733-6BFD-43BD-9892-3C94D0883BE0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Session08.StateManagement.UI", "Session08.StateManagement.UI\Session08.StateManagement.UI.csproj", "{D8FEF733-6BFD-43BD-9892-3C94D0883BE0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -1,4 +1,4 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Session08.StateManager\Session08.StateManager.Entities.csproj" />
+    <ProjectReference Include="..\Session08.StateManager\Session08.StateManagement.Entities.csproj" />
   </ItemGroup>
 
 </Project>
